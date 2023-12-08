@@ -26,20 +26,18 @@ header {
 /* <---------  --------- HEADER END -----------------------> */
 
 .boxForm {
-    margin-left: 200px;
 
-    max-width: 100%;
-    text;
 }
 
 .boxForm .cadastroForm {
-    display: inline-flex;
-    flex-direction: column;
-    justify-items: left;
-    gap: 15px;
+
 }
 input {
-    margin-top: -10px;
+    display: block;
+    align-items: start  ;
+}
+label {
+    display: block;
 }
 hr {
 border:solid 1px black;
