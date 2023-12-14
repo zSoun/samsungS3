@@ -1,0 +1,42 @@
+body {
+    font-family: inter;
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    color: #6666CC;
+}
+h2 {
+    color:  #9999FF;
+}
+h3 {
+    color: #6666CC;
+}
+
+.data p {
+    color: #808080;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+#dataMargin {
+    margin-bottom: -10px;
+}
+
+img {
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+}
+
+#imagem {
+    float: left;
+}
+
+a {
+    color: #FF0000;
+    font-weight: bold;
+}
